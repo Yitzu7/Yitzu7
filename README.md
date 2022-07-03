@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yitzu7
 - 👀 I’m interested in way too much stuff
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
